@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Edine Noella Mugisha!
+
+## 🚀 About Me
+I'm a junior developer with a passion for building web applications using Node.js. I'm constantly learning and exploring new backend-end and front-end technologies to enhance my skills and contribute to exciting projects.
+
+## 🛠️ Technologies & Tools
+- **Backend:** Node.JS, PostgreSQL, MySQL, Typescript, C++
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, npm, Webpack, Figma, Postman
+
+## 🌱 Currently Learning
+- Advanced React concepts
+- State management with Redux
+- Backend basics with Node.js
+
 
 <!--
 **edine-noella/edine-noella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
