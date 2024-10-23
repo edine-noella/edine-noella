@@ -9,7 +9,7 @@ I'm a junior developer with a passion for building web applications using Node.j
 - **Tools:** Git, GitHub, VS Code, npm, Webpack, Figma, Postman
 
 ## 🌱 Currently Learning
-- Backend basics with Nest.js
+- Backend with Nest.js
 - Code Quality Assurance
 
 
