@@ -4,16 +4,14 @@
 I'm a junior developer with a passion for building web applications using Node.js. I'm constantly learning and exploring new backend-end and front-end technologies to enhance my skills and contribute to exciting projects.
 
 ## 🛠️ Technologies & Tools
-- **Backend:** Node.JS, PostgreSQL, MySQL, Typescript, C++, Nest.js, Java , C#
+- **Backend:** Node.JS, PostgreSQL, MySQL, Typescript, C++, Nest.js, Java , C#, ASP.NET
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack, Figma, Postman
+- **Tools:** Git, GitHub, VS Code, npm, Webpack, Figma, Postman, ServiceBus
 
 ## 🌱 Currently Learning
-- ASP.NET
-- Code Quality Assurance
+- Datadog
+- Kafka
 
-## 🔭 I’m currently working on
-- Contributing to Open Source Projects
 
 
 <!--
