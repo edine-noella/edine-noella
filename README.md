@@ -6,7 +6,7 @@ I'm a developer with a passion for building web applications using Node.js. I'm 
 ## 🛠️ Technologies & Tools
 - **Backend:** Node.JS, PostgreSQL, MySQL, Typescript, C++, Nest.js, Java , C#, ASP.NET
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack, Figma, Postman, ServiceBus
+- **Tools:** Git, GitHub, VS Code, npm, Webpack, Figma, Postman, ServiceBus, DBeaver
 
 ## 🌱 Currently Learning
 - Datadog
