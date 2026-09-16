@@ -4,12 +4,11 @@
 I'm a developer with a passion for building web applications using Node.js. I'm constantly learning and exploring new backend-end and front-end technologies to enhance my skills and contribute to exciting projects.
 
 ## 🛠️ Technologies & Tools
-- **Backend:** Node.JS, PostgreSQL, MySQL, Typescript, C++, Nest.js, Java , C#, ASP.NET
-- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack, Figma, Postman, ServiceBus, DBeaver
+- **Backend:** Node.JS, PostgreSQL, MySQL, Typescript, C++, Nest.js, Java , C#, ASP.NET, Spring Boot, express.js, Python
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS, Vue.js, Next.js, Angular
+- **Tools:** Git, GitHub, Figma, Postman, ServiceBus, DBeaver, Datadog, Docker
 
 ## 🌱 Currently Learning
-- Datadog
 - Kafka
 
 
